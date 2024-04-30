@@ -1,11 +1,11 @@
-package org.example.runningleaderboard
+package org.example
 
 import org.springframework.boot.autoconfigure.SpringBootApplication
 import org.springframework.boot.runApplication
 
 @SpringBootApplication
-class RunningLeaderBoardApplication
+class RedisPracticeApplication
 
 fun main(args: Array<String>) {
-	runApplication<RunningLeaderBoardApplication>(*args)
+	runApplication<RedisPracticeApplication>(*args)
 }

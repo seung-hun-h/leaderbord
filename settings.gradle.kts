@@ -1,1 +1,1 @@
-rootProject.name = "running-leader-board"
+rootProject.name = "redis-practice"
